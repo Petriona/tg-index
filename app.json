@@ -14,19 +14,19 @@
   "env": {
     "API_ID": {
       "description": "API ID here.",
-      "required": True
+      "required": true
     },
     "API_HASH": {
       "description": "API HASH here.",
-      "required": True
+      "required": true
     },
     "INDEX_SETTINGS": {
       "description": "Index Settings here.",
-      "required": True
+      "required": true
     },
     "SESSION_STRING": {
       "description": "Session String here.",
-      "required": True
+      "required": true
     }     
     
   },
