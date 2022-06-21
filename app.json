@@ -13,20 +13,16 @@
   "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
   "env": {
     "API_ID": {
-      "description": "API ID here.",
-      "required": true
+      "description": "API ID here."
     },
     "API_HASH": {
-      "description": "API HASH here.",
-      "required": true
+      "description": "API HASH here."
     },
     "INDEX_SETTINGS": {
-      "description": "Index Settings here.",
-      "required": true
+      "description": "Index Settings here."
     },
     "SESSION_STRING": {
-      "description": "Session String here.",
-      "required": true
+      "description": "Session String here."
     }     
     
   },
