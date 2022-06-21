@@ -3,14 +3,12 @@
   "description": "Index your telegram account or chat.",
   "keywords": [
     "telegram",
-    "best",
-    "auto",
-    "caption" 
+    "index"
   ],
   "success_url": "https://hagadmansa.com",
   "website": "https://hagadmansa.com",
   "repository": "https://hagadmansa.com",
-  "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
+  "logo": "https://telegra.ph/file/fea8923d31c161d69252d.jpg",
   "env": {
     "API_ID": {
       "description": "API ID here."
