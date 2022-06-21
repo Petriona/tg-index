@@ -1,0 +1,44 @@
+{
+  "name": "TG-Index",
+  "description": "Index your telegram account or chat.",
+  "keywords": [
+    "telegram",
+    "best",
+    "auto",
+    "caption" 
+  ],
+  "success_url": "https://hagadmansa.com",
+  "website": "https://hagadmansa.com",
+  "repository": "https://hagadmansa.com",
+  "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
+  "env": {
+    "API_ID": {
+      "description": "API ID here.",
+      "required": True
+    },
+    "API_HASH": {
+      "description": "API HASH here.",
+      "required": True
+    },
+    "INDEX_SETTINGS": {
+      "description": "Index Settings here.",
+      "required": True
+    },
+    "SESSION_STRING": {
+      "description": "Session String here.",
+      "required": True
+    }     
+    
+  },
+  "addons": [
+  ],
+  "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
