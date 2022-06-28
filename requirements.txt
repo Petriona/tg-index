@@ -1,6 +1,7 @@
 aiohttp
 aiohttp-jinja2
 telethon
+jinja2==3.0.3
 cryptg
 pillow
 aiohttp_session[secure]
